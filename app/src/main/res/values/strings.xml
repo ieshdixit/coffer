@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Coffer</string>
+    <string name="token_identifier">login_token</string>
+    <string name="preference_file_key">shared_pref</string>
+
+    <!---Sign in -->
+    <string name="loading">loading....</string>
+    <string name="status_otp_verification_succeeded">OTP is successfully verified. Updating phone number to your account..</string>
+    <string name="email_auth_failed">Authentication with Email and password failed</string>
+    <string name="facebook_app_id">381639615822021</string>
+    <string name="fb_login_protocol_scheme">fb381639615822021</string>
+
+    <string name="hint_email_address">Email Address</string>
+    <string name="hint_password">Password(min 8 characters)</string>
+
+    <string name="login">Login</string>
+    <string name="signup">SignUp</string>
+    <string name="forgot_password">Forgot credentials? Get help signing in.</string>
+    <string name="login_facebook">Continue with Facebook</string>
+    <string name="login_google">Continue with Google</string>
+    <string name="permission_alert_dialog_title">Request for permissions:</string>
+    <string name="permission_dialog_message">We will analyse your transactional SMS to figure out unwanted expenses and keep a backup in your device storage. Please provide asked permissions.</string>
+    <string name="action_ok">I trust you</string>
+
+    <!-- server and data-->
+    <string name="title_activity_main">MainActivity</string>
+</resources>

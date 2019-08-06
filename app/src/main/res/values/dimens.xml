@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Standard text size -->
+    <dimen name="heading1_text_size">24dp</dimen>
+    <dimen name="heading2_text_size">20dp</dimen>
+    <dimen name="heading3_text_size">16dp</dimen>
+    <dimen name="regular_text_size">14dp</dimen>
+    <dimen name="caption_text_size">12dp</dimen>
+
+    <!--Standard margin padding and radius -->
+    <dimen name="activity_horizontal_margin">8dp</dimen>
+    <dimen name="activity_vertical_margin">8dp</dimen>
+    <dimen name="corner_radius">4dp</dimen>
+
+    <!--Standard button dimension and attributes -->
+    <dimen name="button_height">44dp</dimen>
+    <dimen name="button_height_half">22dp</dimen>
+    <dimen name="button_vertical_margin">12dp</dimen>
+    <dimen name="button_text_size">16dp</dimen>
+    <dimen name="floating_button_height">64dp</dimen>
+    <dimen name="floating_button_margin">16dp</dimen>
+    <dimen name="floating_button_drawable_icon_padding">12dp</dimen>
+
+    <dimen name="description_edit_text_padding">8dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+</resources>

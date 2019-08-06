@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "915031800101",
+    "firebase_url": "https://coffer-b0c31.firebaseio.com",
+    "project_id": "coffer-b0c31",
+    "storage_bucket": "coffer-b0c31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915031800101:android:2b11197950718765",
+        "android_client_info": {
+          "package_name": "elope.crazyones.com.coffer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915031800101-uelvv0j72hl383o1ljeu8pbocf30h56r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL3l0JkeeV7xrPd4YUnZcoHsfr4x0HD8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915031800101-uelvv0j72hl383o1ljeu8pbocf30h56r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
